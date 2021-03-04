@@ -849,7 +849,7 @@ i{
 }
 
 .section-j {
-    background-image: url(/images/bg-map.svg);
+    background-image: url("/images/bg-map.svg");
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: cover;
